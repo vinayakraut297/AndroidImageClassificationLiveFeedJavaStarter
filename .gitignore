@@ -1,0 +1,28 @@
+# Gradle files
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration file (contains SDK paths etc.)
+local.properties
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+
+# Specific IDEA files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# macOS
+.DS_Store
+
+# Others
+*.log
+*.keystore
